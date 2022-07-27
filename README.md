@@ -1,4 +1,4 @@
-# ledger-terra-js
+# ledger-paloma-js
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![npm version](https://badge.fury.io/js/ledger-cosmos-js.svg)](https://badge.fury.io/js/ledger-terra-js)

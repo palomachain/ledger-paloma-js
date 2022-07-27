@@ -1,11 +1,11 @@
-import { Key } from "@terra-money/terra.js";
-import { AccAddress } from "@terra-money/terra.js";
-import { SimplePublicKey } from "@terra-money/terra.js";
+import { Key } from "@palomachain/paloma.js";
+import { AccAddress } from "@palomachain/paloma.js";
+import { SimplePublicKey } from "@palomachain/paloma.js";
 
 import Transport from "@ledgerhq/hw-transport";
 import TerraApp from "./app";
 import { signatureImport } from "secp256k1";
-import { SignatureV2, SignDoc } from "@terra-money/terra.js";
+import { SignatureV2, SignDoc } from "@palomachain/paloma.js";
 import { AppInfoResponse, CommonResponse, DeviceInfoResponse, PublicKeyResponse, VersionResponse } from "./types";
 import semver from "semver";
 
